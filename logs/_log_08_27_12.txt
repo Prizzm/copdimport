@@ -1,0 +1,3 @@
+ID, Status, Function, Timestamp
+Attempted to connect to ftp01.originalimpressions.com for user copdfulfillment
+FTP upload has failed!
